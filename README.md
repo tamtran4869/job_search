@@ -25,7 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Helping to search a specific job title in the company's career site from list of company name, city and type of visa stored in local machine or database (mySQL).
+Helping to search a specific job title in the company's career site from a list of company name, city and type of visa stored in local machine or database (mySQL).
 
 For example, the published list company on the government website is used:
 
