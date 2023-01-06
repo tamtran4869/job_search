@@ -25,9 +25,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Helping to search a specific job title in the company's career site from a list of company name, city and type of visa stored in local machine or database (mySQL).
+Some companies did not post their opening roles on job boards and just put them on their website, which is hard to find; for those looking for sponsors, it is time-consuming to check manually. Therefore, this project helps search for a specific job title in the company's career site from a list of company names, cities and types of visas stored in a local machine or database (mySQL).
 
-For example, the published list company on the government website is used:
+For example, the public list company on the government website is used:
 
 <img src="https://user-images.githubusercontent.com/114192113/211102932-22cd38ed-4c3d-43eb-b900-5d4004349610.png" alt="drawing" width="700"/>
 
