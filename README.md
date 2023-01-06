@@ -25,9 +25,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Helping to search a specific job title and check it career site of company from ist of company name, city and type of visa.
+Helping to search a specific job title and check the company's career site from ist of company name, city and type of visa.
 
-For example, the published list company in government website is used:
+For example, the published list company on the government website is used:
 
 <img src="https://user-images.githubusercontent.com/114192113/211102932-22cd38ed-4c3d-43eb-b900-5d4004349610.png" alt="drawing" width="700"/>
 
@@ -37,7 +37,7 @@ For example, the published list company in government website is used:
 
 ### Built With
 
-Using library ddgr to search for websites and selenium for scraping data. These are 2 main steps.
+Using ddgr library to search for websites and selenium for scraping data. These are 2 main steps.
 * ddrg: https://github.com/jarun/ddgr
 * selenium: https://pypi.org/project/selenium/
 
@@ -46,12 +46,6 @@ Using library ddgr to search for websites and selenium for scraping data. These 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
 ### Installation
 
 Clone the repo and go to the project directory
