@@ -82,6 +82,7 @@ python3 job_search.py
     --rout 'Skilled Worker' #filter by type of visa
 ```
 *** Due to the various structures of websites, the results may not be correct 100%, so you can check manually with the generated website list if you want.
+
 *** THANK YOU
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
