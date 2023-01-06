@@ -25,7 +25,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Some companies did not post their opening roles on job boards and just put them on their website, which is hard to find; for those looking for sponsors, it is time-consuming to check manually. Therefore, this project helps search for a specific job title in the company's career site from a list of company names, cities and types of visas stored in a local machine or database (mySQL).
+Some companies did not post their opening roles on job boards and just put them on their website, which is hard to find; for those looking for sponsors, it is time-consuming to check manually. Therefore, this work helps search for a specific job title in the company's career site from a list of company names, cities and types of visas stored in a local machine or database (mySQL).
 
 For example, the public list company on the government website is used:
 
