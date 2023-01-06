@@ -63,7 +63,7 @@ Clone the repo and go to the project directory
 ## Usage
 To run the job_search file, there are 6 arguments need to be specified.
 
-    --db or --file : get data from databse or local file and all data need to be lowercase (just use 1) (required)
+    --db or --file : get data from database (with table name company_list) or local file and all data need to be lowercase (just use 1) (required)
 
     --job : job title for searching (required)
 
@@ -75,7 +75,7 @@ To run the job_search file, there are 6 arguments need to be specified.
 
 ```sh
 python3 job_search.py 
-    --db 'name user password' # or --file '/data/2022-12-07_-_Worker_and_Temporary_Worker.csv'
+    --file '/data/2022-12-07_-_Worker_and_Temporary_Worker.csv' # or --db 'dbname user password' 
     --job 'analyst' 
     --add_term 'uk career vacancies' 
     --city 'London' #filter by city
