@@ -75,13 +75,13 @@ To run the job_search file, there are 6 arguments need to be specified.
 
 ```sh
 python3 job_search.py 
-    --db 'name user password' # or --file '/data/2022-12-07_-_Worker_and_Temporary_Worker.csv' (get data from databse or local file and all data need to be lowercase.)
+    --db 'name user password' # or --file '/data/2022-12-07_-_Worker_and_Temporary_Worker.csv'
     --job 'analyst' 
     --add_term 'uk career vacancies' 
     --city 'London' #filter by city
     --rout 'Skilled Worker' #filter by type of visa
 ```
 *** Due to the various structures of websites, the results may not be correct 100%, so you can check manually with the generated website list if you want.
-*** 
+*** THANK YOU
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
