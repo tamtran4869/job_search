@@ -37,7 +37,7 @@ For example, the public list company on the government website is used:
 
 ### Built With
 
-Using ddgr library to search for websites and selenium for scraping data. These are 2 main steps.
+Using ddgr library to search for websites and selenium for scraping data (included data in displayed iframe elements which offten are used to list opening jobs). These are 2 main steps.
 * ddrg: https://github.com/jarun/ddgr
 * selenium: https://pypi.org/project/selenium/
 
