@@ -188,10 +188,12 @@ def main():
                 check = find_term(web,args.job)
                 if check==True:
                     count +=1
+                    df.at[i,"check_job"]= True
                     print ("***An %s job found ***" % (args.job))
                 else:
+                    df.at[i,"check_job"]= False
                     print ("NO %s job found" % (args.job))
-                df.at[i,"check_job"]=check
+                
 
         #Save resulst
         timestr = time.strftime("%Y%m%d_%H%M%S")
